@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelJirka
-- 👀 I’m interested in coding and all things engineering. Love to cook, play water polo and squash, and travel as much as I can!
-- 🌱 I’m currently learning web dev and algorithms
+- 👀 I’m interested in coding, data science, and mechanical engineering. Love to cook, play water polo, and travel as much as I can!
+- 🌱 I’m currently learning full stack dev and algorithms
 - 📫 How to reach me michaelvjirka@gmail.com
 
 <!---
